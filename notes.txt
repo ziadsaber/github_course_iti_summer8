@@ -1,3 +1,7 @@
 1-git init  : initiate local repo but files not tracked 
 2-git add: move files from local repo to working area
-hahabhabdhabsh
+3-git commit
+4-git branch
+ 5-git remote
+ 6- git push (moves files from staging area to remote repo)
+----------
