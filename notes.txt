@@ -48,5 +48,8 @@ to push a change
 2- git commit -m "message" (moves files from working area to staging area)
 
 3- git push (moves files from staging area to remote repo)
+ 
 
+
+ (this is for the main)
 
